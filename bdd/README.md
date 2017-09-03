@@ -1,24 +1,18 @@
 ```
-
-    _  _     ____             _               ____  _                                             _  ____  
-  _| || |_  / ___| _ __  _ __(_)_ __   __ _  |  _ \| | __ _ _   _  __ _ _ __ ___  _   _ _ __   __| | \ \ \ 
- |_  ..  _| \___ \| '_ \| '__| | '_ \ / _` | | |_) | |/ _` | | | |/ _` | '__/ _ \| | | | '_ \ / _` |  \ \ \
- |_      _|  ___) | |_) | |  | | | | | (_| | |  __/| | (_| | |_| | (_| | | | (_) | |_| | | | | (_| |  / / /
-   |_||_|   |____/| .__/|_|  |_|_| |_|\__, | |_|   |_|\__,_|\__, |\__, |_|  \___/ \__,_|_| |_|\__,_| /_/_/ 
-                  |_|                 |___/                 |___/ |___/                                    
-
+  ____             _                       ____  ____  ____  
+ / ___| _ __  _ __(_)_ __   __ _     _    | __ )|  _ \|  _ \ 
+ \___ \| '_ \| '__| | '_ \ / _` |  _| |_  |  _ \| | | | | | |
+  ___) | |_) | |  | | | | | (_| | |_   _| | |_) | |_| | |_| |
+ |____/| .__/|_|  |_|_| |_|\__, |   |_|   |____/|____/|____/ 
+       |_|                 |___/                             
 ```
-[![GitHub issues][Issues]](https://github.com/tacsio/spring-playground/issues)
+
 [![GitHub license][License]](https://github.com/tacsio/spring-playground/blob/master/LICENSE)
 
 ![Logo][Logo]
 
-Repository for tests, samples, proofs of concept unsing spring framework.
-
-Projects
-=========
-
-1. [Springboot & BDD](bdd/)
+Sample spring boot application configured with cucumber to exercise integration tests
+and [behavior-driven development][bdd]
 
 License
 =========
@@ -56,6 +50,8 @@ Contributing
 
 
 
-[Logo]: https://spring.io/img/spring-by-pivotal-9066b55828deb3c10e27e609af322c40.png
+[Logo]: http://elnur.pro/images/bdd-cycle-around-tdd-cycles.png
 [License]: https://img.shields.io/github/license/tacsio/spring-playground.svg
-[Issues]: https://img.shields.io/github/issues/tacsio/spring-playground.svg
+
+
+[bdd]: https://en.wikipedia.org/wiki/Behavior-driven_development
