@@ -30,3 +30,8 @@ dependencies {
 	testCompile('info.cukes:cucumber-junit:1.2.5')
 	testCompile('info.cukes:cucumber-spring:1.2.5')
 }
+
+test {
+    testLogging.showStandardStreams = true
+    systemProperties System.getProperties()
+}

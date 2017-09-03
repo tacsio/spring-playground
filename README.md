@@ -56,7 +56,6 @@ Contributing
 5. Create new Pull Request
 
 
-
 [Logo]: https://spring.io/img/spring-by-pivotal-9066b55828deb3c10e27e609af322c40.png
 [License]: https://img.shields.io/github/license/tacsio/spring-playground.svg
 [Issues]: https://img.shields.io/github/issues/tacsio/spring-playground.svg
