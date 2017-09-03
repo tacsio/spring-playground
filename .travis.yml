@@ -1,0 +1,8 @@
+language: java
+jdk:
+  - oraclejdk8
+script:
+  - cd bdd
+  - gradle check
+  - gradle build
+  - cd -
