@@ -50,7 +50,7 @@ Contributing
 
 
 
-[Logo]: http://elnur.pro/images/bdd-cycle-around-tdd-cycles.png
+[Logo]: http://www.infolytx.com/wp-content/uploads/2017/03/tdd-bdd-600x460.png
 [License]: https://img.shields.io/github/license/tacsio/spring-playground.svg
 
 
