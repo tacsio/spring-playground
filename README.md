@@ -1,11 +1,15 @@
 ```
-
-    _  _     ____             _               ____  _                                             _  ____  
-  _| || |_  / ___| _ __  _ __(_)_ __   __ _  |  _ \| | __ _ _   _  __ _ _ __ ___  _   _ _ __   __| | \ \ \ 
- |_  ..  _| \___ \| '_ \| '__| | '_ \ / _` | | |_) | |/ _` | | | |/ _` | '__/ _ \| | | | '_ \ / _` |  \ \ \
- |_      _|  ___) | |_) | |  | | | | | (_| | |  __/| | (_| | |_| | (_| | | | (_) | |_| | | | | (_| |  / / /
-   |_||_|   |____/| .__/|_|  |_|_| |_|\__, | |_|   |_|\__,_|\__, |\__, |_|  \___/ \__,_|_| |_|\__,_| /_/_/ 
-                  |_|                 |___/                 |___/ |___/                                    
+    _  _     ____             _
+  _| || |_  / ___| _ __  _ __(_)_ __   __ _
+ |_  ..  _| \___ \| '_ \| '__| | '_ \ / _` |
+ |_      _|  ___) | |_) | |  | | | | | (_| |
+   |_||_|   |____/| .__/|_|  |_|_| |_|\__, |
+  ____  _         |_|                 |___/           _  ____
+ |  _ \| | __ _ _   _  __ _ _ __ ___  _   _ _ __   __| | \ \ \
+ | |_) | |/ _` | | | |/ _` | '__/ _ \| | | | '_ \ / _` |  \ \ \
+ |  __/| | (_| | |_| | (_| | | | (_) | |_| | | | | (_| |  / / /
+ |_|   |_|\__,_|\__, |\__, |_|  \___/ \__,_|_| |_|\__,_| /_/_/
+                |___/ |___/
 
 ```
 [![Build Status][Status]](https://travis-ci.org/tacsio/spring-playground)
@@ -16,13 +20,13 @@
 
 Repository for tests, samples, proofs of concept unsing spring framework.
 
-Projects
-=========
+## Projects
 
 1. [Springboot & BDD](bdd/)
+2. [Spring Cloud Function](function/)
 
-License
-=========
+## License
+
 MIT License
 
 Copyright (c) 2017 Tarcisio Coutinho
@@ -46,8 +50,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-Contributing
-============
+## Contributing
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
@@ -56,7 +59,7 @@ Contributing
 5. Create new Pull Request
 
 
-[Logo]: https://spring.io/img/spring-by-pivotal-9066b55828deb3c10e27e609af322c40.png
+[Logo]: https://github.com/tacsio/spring-playground/blob/master/spring.png?raw=true
 [License]: https://img.shields.io/github/license/tacsio/spring-playground.svg
 [Issues]: https://img.shields.io/github/issues/tacsio/spring-playground.svg
 [Status]: https://travis-ci.org/tacsio/spring-playground.svg?branch=master
