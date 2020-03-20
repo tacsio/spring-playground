@@ -24,6 +24,7 @@ Repository for tests, samples, proofs of concept unsing spring framework.
 
 1. [Springboot & BDD](bdd/)
 2. [Spring Cloud Function](function/)
+3. [Spring + JWT Tokens](jwt-spring/)
 
 ## License
 

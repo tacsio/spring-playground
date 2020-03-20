@@ -6,3 +6,11 @@ script:
   - gradle check
   - gradle build
   - cd -
+  - cd function
+  - gradle check
+  - gradle build
+  - cd -
+  - cd jwt-spring
+  - gradle check
+  - gradle build
+  - cd -
