@@ -1,7 +1,8 @@
 # JWT Spring
 
-Simple implementation of Json Web Tokens with Spring
 ![logo][logo]
+
+Simple implementation of Json Web Tokens with Spring
 
 ## Steps
 
