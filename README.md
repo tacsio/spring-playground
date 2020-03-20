@@ -12,7 +12,6 @@
                 |___/ |___/
 
 ```
-[![Build Status][Status]](https://travis-ci.org/tacsio/spring-playground)
 [![GitHub issues][Issues]](https://github.com/tacsio/spring-playground/issues)
 [![GitHub license][License]](https://github.com/tacsio/spring-playground/blob/master/LICENSE)
 
@@ -63,4 +62,3 @@ SOFTWARE.
 [Logo]: https://github.com/tacsio/spring-playground/blob/master/spring.png?raw=true
 [License]: https://img.shields.io/github/license/tacsio/spring-playground.svg
 [Issues]: https://img.shields.io/github/issues/tacsio/spring-playground.svg
-[Status]: https://travis-ci.org/tacsio/spring-playground.svg?branch=master
