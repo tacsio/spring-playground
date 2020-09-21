@@ -41,4 +41,4 @@ Authorization:'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3O
 5. Create new Pull Request
 
 
-[logo]: https://github.com/tacsio/spring-playground/blob/master/jwt-spring/jwt.png?raw=true
+[logo]: https://github.com/tacsio/spring-playground/blob/main/.github/jwt.png?raw=true

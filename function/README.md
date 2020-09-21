@@ -21,4 +21,4 @@
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-[logo]: https://github.com/tacsio/spring-playground/blob/master/function/spring.png?raw=true
+[logo]: https://github.com/tacsio/spring-playground/blob/main/.github/spring-function.png?raw=true
