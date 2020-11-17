@@ -1,17 +1,3 @@
-```
-    _  _     ____             _
-  _| || |_  / ___| _ __  _ __(_)_ __   __ _
- |_  ..  _| \___ \| '_ \| '__| | '_ \ / _` |
- |_      _|  ___) | |_) | |  | | | | | (_| |
-   |_||_|   |____/| .__/|_|  |_|_| |_|\__, |
-  ____  _         |_|                 |___/           _  ____
- |  _ \| | __ _ _   _  __ _ _ __ ___  _   _ _ __   __| | \ \ \
- | |_) | |/ _` | | | |/ _` | '__/ _ \| | | | '_ \ / _` |  \ \ \
- |  __/| | (_| | |_| | (_| | | | (_) | |_| | | | | (_| |  / / /
- |_|   |_|\__,_|\__, |\__, |_|  \___/ \__,_|_| |_|\__,_| /_/_/
-                |___/ |___/
-
-```
 [![GitHub issues][Issues]](https://github.com/tacsio/spring-playground/issues)
 [![GitHub license][License]](https://github.com/tacsio/spring-playground/blob/master/LICENSE)
 
@@ -24,6 +10,7 @@ Repository for tests, samples, proofs of concept unsing spring framework.
 1. [Springboot & BDD](bdd/)
 2. [Spring Cloud Function](function/)
 3. [Spring + JWT Tokens](jwt-spring/)
+4. [Reactor](reactive-spring/)
 
 ## License
 

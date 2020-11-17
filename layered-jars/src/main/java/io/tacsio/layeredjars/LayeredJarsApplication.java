@@ -1,18 +1,13 @@
-package io.tacsio.reactive;
+package io.tacsio.layeredjars;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ReactiveSpringApplication {
+public class LayeredJarsApplication {
 
-	/**
-	 *
-	 * 	Go to tests folder!
-	 *
-	 */
 	public static void main(String[] args) {
-		SpringApplication.run(ReactiveSpringApplication.class, args);
+		SpringApplication.run(LayeredJarsApplication.class, args);
 	}
 
 }
