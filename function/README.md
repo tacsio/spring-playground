@@ -1,4 +1,4 @@
-# JWT Spring
+# Spring Cloud Function
 
 ![logo][logo]
 
