@@ -7,6 +7,7 @@ Project Reactor is a fully non-blocking foundation with back-pressure support in
 ## Reactive Stack
 
 ![stack][stack]
+*From: https://spring.io/reactive*
 
 ## Contributing
 
