@@ -1,10 +1,10 @@
-package com.example.jwtspring.controllers;
+package io.tacsio.jwt.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class TestController {
+public class SampleController {
 
     @GetMapping("/up")
     public String up() {
@@ -13,6 +13,6 @@ public class TestController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello world";
+        return "Hello world secured.";
     }
 }

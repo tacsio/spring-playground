@@ -1,4 +1,4 @@
-package com.example.jwtspring;
+package io.tacsio.jwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JwtSpringApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(JwtSpringApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(JwtSpringApplication.class, args);
+    }
 
 }
