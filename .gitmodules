@@ -1,0 +1,3 @@
+[submodule "healthcheck-docker"]
+	path = healthcheck-docker
+	url = https://github.com/tacsio/spring-actuator-healthcheck-docker.git
