@@ -1,3 +1,6 @@
 [submodule "healthcheck-docker"]
 	path = healthcheck-docker
 	url = https://github.com/tacsio/spring-actuator-healthcheck-docker.git
+[submodule "rfc7807"]
+	path = rfc7807
+	url = https://github.com/tacsio/spring-boot-rfc7807.git
