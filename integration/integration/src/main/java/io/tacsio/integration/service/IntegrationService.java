@@ -1,5 +1,6 @@
 package io.tacsio.integration.service;
 
+import io.tacsio.integration.controler.ApiRequest;
 import org.springframework.integration.annotation.Gateway;
 import org.springframework.integration.annotation.MessagingGateway;
 import org.springframework.messaging.Message;
@@ -8,5 +9,5 @@ import org.springframework.messaging.Message;
 public interface IntegrationService {
 
     @Gateway(requestChannel = "request", replyChannel = "response")
-    String send(String msg);
+    String send(ApiRequest request);
 }

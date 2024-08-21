@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
+import java.util.Optional;
 
 @RestController
 public class AdapterController {
@@ -21,18 +22,14 @@ public class AdapterController {
 
     @GetMapping("/proxy/sample")
     public String forwardRequest() {
-        var headers = new MessageHeaders(Map.of("HTTP_METHOD", HttpMethod.GET));
-
-//        return integrationService.send(MessageBuilder.createMessage("payload", headers));
-        return integrationService.send("Payload get");
+        var request = new ApiRequest(HttpMethod.GET.name(), Optional.empty(), "Payload post");
+        return integrationService.send(request);
     }
 
     @PostMapping("/proxy/sample")
     public String forwardPost() {
-
-        var headers = new MessageHeaders(Map.of("HTTP_METHOD", HttpMethod.POST));
-
-        return integrationService.send("Payload post");
+        var request = new ApiRequest(HttpMethod.POST.name(), Optional.empty(), "Payload post");
+        return integrationService.send(request);
     }
 
 }

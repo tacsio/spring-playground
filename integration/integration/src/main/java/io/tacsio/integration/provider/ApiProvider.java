@@ -6,6 +6,6 @@ import org.springframework.messaging.MessageChannel;
 public interface ApiProvider {
     MessageChannel response();
 
-    HttpRequestExecutingMessageHandler messageHandler(MessageChannel getRequest);
+    HttpRequestExecutingMessageHandler messageHandler();
 
 }
