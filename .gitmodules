@@ -4,3 +4,6 @@
 [submodule "rfc7807"]
 	path = rfc7807
 	url = https://github.com/tacsio/spring-boot-rfc7807.git
+[submodule "probes"]
+	path = probes
+	url = git@github.com:tacsio/spring-kubernetes-probes.git

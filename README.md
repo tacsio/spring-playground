@@ -12,7 +12,8 @@ Repository for tests, samples, proofs of concept unsing spring framework.
 3. [Spring + JWT Tokens](jwt-spring/)
 4. [Reactor](reactive-spring/)
 5. [Actuator Docker Healthcheck](healthcheck-docker/)
-5. [Springboot 3 RFC 7807](rfc7807/)
+6. [Springboot 3 RFC 7807](rfc7807/)
+7. [Kubernetes Probes](probes/)
 
 ## License
 
